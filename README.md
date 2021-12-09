@@ -1,8 +1,9 @@
 # MLTSA-V1
 Version 1 of the repository for the Unbinding-MLTSA, this code corresponds to the bioRxiv preprint: https://www.biorxiv.org/content/10.1101/2021.09.08.459492v1
 
-Work from: 
-Badaoui, M. et al. (2021) ‘Combined free energy calculation and machine learning methods for understanding ligand unbinding kinetics’, bioRxiv. Cold Spring Harbor Laboratory, p. 2021.09.08.459492. doi: 10.1101/2021.09.08.459492.
+Combined free energy calculation and machine learning methods for understanding ligand unbinding kinetics
+Magd Badaoui, Pedro J Buigues, Dénes Berta, Gaurav M. Mandana, Hankang Gu, Callum J Dickson, Viktor Hornak, Mitsunori Kato, Carla Molteni, Simon Parsons, Edina Rosta
+bioRxiv 2021.09.08.459492; doi: https://doi.org/10.1101/2021.09.08.459492
 
 
 # Analytical Model example
