@@ -3,13 +3,13 @@ Version 1 of the repository for the Unbinding-MLTSA
 
 
 
-#Analytical Model example
+# Analytical Model example
 
 Under __"MLTSA_examples/OneD_pot/"__ the file __"OneD_sklearn_example.ipynb"__ is a Jupyter Notebook going through the basics 
 of generating the one dimensional data and subsequent features for the ML. It contains code for the training, testing 
 and global mean calculation as well as the Accuracy Drop for feature selection. 
 
-#Main Code 
+# Main Code 
 
 - __"MLTSA_sklearn/MLTSA_sk.py"__ : Contains the main code for calculating the Global Means and subsequent Accuracy Drop 
 calculation as well as a wrapping function for plotting nicely the outcome of the approach.  
@@ -20,7 +20,7 @@ calculation as well as a wrapping function for plotting nicely the outcome of th
 (Single-well and Double-well) and prepare a dataset with the desired number of features. It has functions to generate 
 data on demand based on the   
 
-#Animated Trajectories
+# Animated Trajectories
 
 GIF files for each system are available under the __"Animated_Trajectories"__ folder.
 
